@@ -1,0 +1,36 @@
+/* DIVs */
+
+#area-laranja {
+	background-color: rgb(150, 237, 242);
+	border: 1px solid rgb(150, 237, 242);
+	width: 1400spx;
+	height: 70px;
+	margin: 7px 40px 5px 1px;
+	text-align: center;
+}
+
+#area-verde {
+	border: 1px solid black;
+	width: 700px;
+	height: 1000px;
+	margin: 5px 5px 5px 150px;
+	float: left;
+}
+
+#area-vermelha {
+	border: 1px solid black;
+	width: 300px;
+	height: 1000px;
+	margin: 5px 40px 5px 5px;
+	float: left;
+}
+
+#area-azul {
+	background-color: rgb(150, 237, 242);
+	border: 1px solid rgb(150, 237, 242);
+	width: 1400px;
+	height: 70px;
+	margin: 7px 40px 5px 1px;
+	clear: both;
+	text-align: center;
+}
